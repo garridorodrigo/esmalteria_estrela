@@ -1,0 +1,59 @@
+body
+{
+   overflow-x: hidden;
+  font-family: 'Encode Sans Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background:url("../img/header-bgestrelafocus.jpg")no-repeat;
+  webkit-background-size:cover;
+  background-size: cover;
+}
+
+
+button.btn.btn-secondary.btnFechar {
+    align-items: left;
+    background-color: #;
+    margin: 10px 0px 0px 0px;
+}
+
+button.btn.btn-primary.btnCadastrar{
+    
+  background-color: #430750;
+  border-color: #430750;
+    align-items: left;
+    margin: 10px 0px 0px 0px;
+
+}
+
+
+.col-md-4.formulario {
+    margin-top: 5%;
+    background-color: rgba(255,255,255,.8)
+}
+
+.txtLoginForm {
+    text-align: center;
+}
+
+button.btn.btn-primary.btn-block.btnEntrar {
+    background-color: #430750;
+    border-color: #430750;
+}
+
+
+a.linkEsqueciSenha {
+  color: #430750;
+  text-decoration: underline;
+
+}
+
+a.linkCadastrar {
+  color: #430750;
+  text-decoration: underline;
+
+}
+
+
+
+
